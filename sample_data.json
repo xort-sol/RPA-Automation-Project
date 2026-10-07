@@ -1,0 +1,41 @@
+[
+  {
+    "app_id": "APP-1001",
+    "applicant_name": "Ciara Byrne",
+    "pps_number": "1234567A",
+    "monthly_income": 3200,
+    "monthly_rent": 1450,
+    "employment_letter": "Ciara Byrne has been employed as a Senior Analyst at Finbourne Ltd since March 2022 on a permanent full-time contract with an annual salary of EUR 38,400.",
+    "previous_landlord_reply": "Ciara was an excellent tenant for two years. Rent was always paid on time and the property was left in great condition. Happy to recommend her.",
+    "bank_statement_summary": "Regular monthly salary credits of EUR 3,200. Occasional discretionary spending on travel and dining. No overdrafts in the last 6 months.",
+    "id_document_valid": true,
+    "guarantor_required": false,
+    "guarantor_info": null
+  },
+  {
+    "app_id": "APP-1002",
+    "applicant_name": "Daniel Okafor",
+    "pps_number": "9876543B",
+    "monthly_income": 1900,
+    "monthly_rent": 1500,
+    "employment_letter": "Daniel Okafor is self-employed as a freelance graphic designer. Income varies month to month depending on client contracts.",
+    "previous_landlord_reply": "Daniel rented from us for 8 months. Rent was occasionally a few days late but always paid in full. No damage to the property.",
+    "bank_statement_summary": "Irregular income deposits ranging from EUR 1,400 to EUR 2,600 monthly. Two instances of near-zero balance before payday.",
+    "id_document_valid": true,
+    "guarantor_required": true,
+    "guarantor_info": "Guarantor is applicant's father, a permanent employee at Bord na Mona with a stable annual salary of EUR 52,000 and no outstanding debts."
+  },
+  {
+    "app_id": "APP-1003",
+    "applicant_name": "Emese Nagy",
+    "pps_number": "5566778C",
+    "monthly_income": 2600,
+    "monthly_rent": 1300,
+    "employment_letter": "Emese Nagy works part-time (3 days/week) as a physiotherapist at Cork Physio Clinic, gross monthly income EUR 2,600, contract renewed annually.",
+    "previous_landlord_reply": "No response received from previous landlord after three contact attempts.",
+    "bank_statement_summary": "Consistent income credits, but a recent large cash withdrawal of EUR 1,800 that does not match declared expenses.",
+    "id_document_valid": true,
+    "guarantor_required": false,
+    "guarantor_info": null
+  }
+]

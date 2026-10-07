@@ -1,0 +1,27 @@
+{
+  "APP-1001": {
+    "reference_review": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings assistant. Read a previous landlord's ref...)",
+    "affordability": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings affordability assessor. Given monthly inc...)",
+    "inconsistencies": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a fraud/consistency reviewer for rental applications...)",
+    "risk_summary": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are compiling a concise applicant risk narrative for a l...)",
+    "decision_letter": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings agent writing a professional, empathetic ...)",
+    "lease_draft": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are drafting the opening clauses of a standard Irish res...)"
+  },
+  "APP-1002": {
+    "reference_review": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings assistant. Read a previous landlord's ref...)",
+    "affordability": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings affordability assessor. Given monthly inc...)",
+    "inconsistencies": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a fraud/consistency reviewer for rental applications...)",
+    "guarantor_evaluation": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings agent evaluating a guarantor's suitabilit...)",
+    "risk_summary": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are compiling a concise applicant risk narrative for a l...)",
+    "decision_letter": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings agent writing a professional, empathetic ...)",
+    "lease_draft": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are drafting the opening clauses of a standard Irish res...)"
+  },
+  "APP-1003": {
+    "reference_review": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings assistant. Read a previous landlord's ref...)",
+    "affordability": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings affordability assessor. Given monthly inc...)",
+    "inconsistencies": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a fraud/consistency reviewer for rental applications...)",
+    "risk_summary": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are compiling a concise applicant risk narrative for a l...)",
+    "decision_letter": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are a lettings agent writing a professional, empathetic ...)",
+    "lease_draft": "[MOCK RESPONSE - set GEMINI_API_KEY to call the real model]\n(system: You are drafting the opening clauses of a standard Irish res...)"
+  }
+}

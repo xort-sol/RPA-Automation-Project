@@ -1,0 +1,4 @@
+app_id,applicant_name,reference_no,fields_valid,identity_verified,credit_score,credit_acceptable,rtb_registration_no,utility_status,status,processed_at
+APP-1001,Ciara Byrne,REF-APP-1001,True,True,740,True,RTB-56177360,UTIL-APP-1001-TRANSFER-INITIATED,PASSED RPA STAGE - proceeding to AI agent review,2026-07-28T21:14:38
+APP-1002,Daniel Okafor,REF-APP-1002,True,True,711,True,RTB-62573198,UTIL-APP-1002-TRANSFER-INITIATED,PASSED RPA STAGE - proceeding to AI agent review,2026-07-28T21:14:38
+APP-1003,Emese Nagy,REF-APP-1003,True,True,543,False,,,"FLAGGED - failed identity/credit check, needs manual review",2026-07-28T21:14:38
